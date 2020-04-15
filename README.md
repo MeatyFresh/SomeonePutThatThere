@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Howdy
 
-You can use the [editor on GitHub](https://github.com/MeatyFresh/SomeonePutThatThere/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MeatyFresh/SomeonePutThatThere/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here I appreciate some of the little details added to video games, hiding in dark and dusty corners or in areas of the map that exist but you don't need to go to. They're not (_always_) easter eggs, neither are they secrets or purposeful, but they exist, and someone, somewhere, has gone to the effort to include it. We can bring these little details to light, these tiny added extras which most miss and the rest don't think about when they happen to catch sight of them. When you see a little detail hidden away in a secluded area you've accidentally found yourself in, take a moment to think. _Someone put that there_.
